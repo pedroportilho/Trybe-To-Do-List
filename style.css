@@ -1,0 +1,11 @@
+button {
+  margin-bottom: 10px;
+}
+
+.selecionado {
+  background-color: gray;
+}
+
+.completed {
+  text-decoration: line-through;
+}
